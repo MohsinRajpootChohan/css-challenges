@@ -49,12 +49,12 @@ a:hover{
     padding: 100px 0;
 }
 .header{
-    background-color: #d8c8c8;
+    background-color: #D7D7D7;
     margin: none;
     padding: none;
 }
 .about{
-    background: #eaffeb ;
+    background: #FFEAEA ;
     margin: none;
     padding: none;
 }
@@ -62,4 +62,10 @@ a:hover{
     background: #c6e7f4;
     margin: none;
     padding: none;
+}
+.img
+{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
 }
